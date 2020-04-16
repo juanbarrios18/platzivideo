@@ -1,7 +1,7 @@
 {
   "name": "PlatziVideo",
   "version": "1.0.0",
-  "description": "",
+  "description": "project of react course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,13 @@
     "start": "webpack-dev-server --open --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juan Barrios",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
