@@ -51,7 +51,9 @@
   cursor: pointer;
 }
 
-.header__menu--profile img {
+.header__menu_profile img {
   margin-right: 8px;
   width: 40px;
+  border-radius: 100%;
+  object-fit: cover;
 }
